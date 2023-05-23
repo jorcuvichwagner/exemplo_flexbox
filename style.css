@@ -1,0 +1,25 @@
+body{
+    height: 600px;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.filho img{
+    width: 350px;
+    height: 200px;
+}
+
+.filho{
+    background-color: #fff;
+    width: 400;
+    box-shadow: 4px 4px 4px 4px #aaaa;
+    border-radius: 5px;
+}
+
+.filho div{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
